@@ -1,23 +1,61 @@
-# Ecommerce-Churn-Analysis
-This project analyzes customer churn on an e‑commerce platform using a real‑world, partially unclean dataset. It demonstrates how to define, calculate, and visualize churn using SQL for data wrangling and Power BI for dashboarding.
+# E‑commerce Customer Churn Analysis
+
+This project analyzes customer churn on an e‑commerce platform using a real‑world, partially unclean dataset. It demonstrates how to define, calculate, and visualize churn using **SQL** for data wrangling and **Power BI** for dashboarding.
+
+---
+
+## 🔍 Problem Statement
+E‑commerce businesses lose revenue when customers stop purchasing (“churn”). We ask:
+- **Who** is churning?
+- **When** are they churning?
+- **Which behaviors** or segments predict higher churn?
+- **Where** (geographically) is churn most acute?
+
+---
+
+## 📦 Dataset
+- **Source**: Kaggle – E‑commerce Data  
+  https://www.kaggle.com/datasets/carrie1/ecommerce-data  
+- **Size**: ~500 K rows  
+- **Key Fields**:  
+  - `InvoiceNo`, `StockCode`, `Description`  
+  - `Quantity`, `InvoiceDate` (MM/DD/YYYY)  
+  - `UnitPrice`, `CustomerID`, `Country`  
+- **Initial Issues**:  
+  - Missing `CustomerID` values  
+  - Duplicate or cancelled invoices (negative `Quantity`)  
+  - Inconsistent date formats  
+
+All data cleaning—filtering nulls, handling negative quantities, standardizing dates—was done via SQL scripts in the **`SQL/`** folder.
+
+---
+
+## 🛠 Tools & Technologies
+| Tool               | Purpose                                      |
+|--------------------|----------------------------------------------|
+| **SQL**            | Data cleaning, transformation, churn logic   |
+| **Power BI**       | Dashboard design, visuals, interactive filters |
+| **Git & GitHub**   | Version control and portfolio hosting        |
+| **Excel**| Quick initial exploration and sanity checks  |
 
 
 ---
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](Images/dashboard_overview.png)
+![Dashboard Overview](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/e-commerce%20dashboard.png)
 
 ---
 
 ## 🚀 Key Findings
-- **Total Customers**: 93,412  
-- **Churned (90‑day rule)**: 18,752 ⇒ **20.06% churn rate**  
-- **Peak Churn Month**: October 2010 (2,450 customers)  
-- **Highest‑risk Countries**:  
-  - United Kingdom: 22% churn  
-  - Germany: 19% churn  
-- **Spend Comparison**: Active customers’ median spend is **£45** vs. churned **£30**  
+- **Countries with the highest churn**: Australia, France, Germany, Netherlands and Norway top the list. Their churn rates approach 
+100, meaning almost all customers in those markets bought only once during the observed period  
+- **Total quantity sold by country**: As expected, the United Kingdom dominates overall volume, followed (at a much smaller scale) by Ireland, Norway, France and Germany.  
+- **Average unit price by product**: The ten products shown command the highest mean prices; they are typically large decorative items (e.g., wall clocks, cake stands) rather than low-ticket trinkets  
+- **Top-5 products by sales value**: High-velocity + mid-to-high price point gives these five items the largest revenue contributions. 
+- **Unique customers per country**: Again the United Kingdom is by far the largest base, but several EU markets contribute dozens of unique buyers each.
+- **Average churn rate**: Overall, about 86% of customers are single-purchase, so retention efforts have huge room for improvement.
+- **Products driving repeat purchases**: Repeat-customer spend concentrates around decorative homeware (e.g., Red Woolly Hottie, Regency Cake-stand, Babushka Boxes, Chilli Lights, Hanging Heart T-Light Holder). These items resonate strongly enough for customers to buy again.
 - **Behavioral Insight**: Customers with more than 3 distinct purchase days are **70% less** likely to churn.
 
 ---
