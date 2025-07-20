@@ -63,20 +63,26 @@ All data cleaning—filtering nulls, handling negative quantities, standardizing
 ## 📈 Visualizations & Analysis
 1. **KPI Cards**  
    - ![Total vs. churned customers & churn rate (%)](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20132000.png)  
-2. ![**Top 10 Countries by Churn Rate**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20132000.png)  
-3. ![**Total Number of Sales Over Time**](Line chart)  
-4. ![**Unique Customer Per Country**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131909.png)  
-5. ![**Top Quantity Sold**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131711.png)  
-6. ![**Average Unit Price**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131745.png)  
-7. ![**Top Products for Retained Users**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131835.png)  
+2. **Top 10 Countries by Churn Rate**
+   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20132000.png)  
+3. **Total Number of Sales Over Time**
+   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20132752.png)  
+4. **Unique Customer Per Country**
+   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131909.png)  
+5. **Top Quantity Sold**
+   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131711.png)  
+6. **Average Unit Price**
+   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131745.png)  
+7. **Top Products for Retained Users**
+   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131835.png)  
   
 
 ---
 
 ## ✏️ SQL Scripts Overview
 - **`data_cleaning.sql`**  
-  - Converts `InvoiceDate` strings to DATE  
-  - Filters out null `CustomerID` and negative quantities  
+  - I converted `InvoiceDate` strings to DATETIME  
+  - I filtered out null `CustomerID` and negative quantities  
   - Deduplicates cancelled transactions  
 - **`churn_analysis.sql`**  
   - Derives each customer’s last purchase date  
