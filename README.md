@@ -62,14 +62,14 @@ All data cleaning—filtering nulls, handling negative quantities, standardizing
 
 ## 📈 Visualizations & Analysis
 1. **KPI Cards**  
-   - Total vs. churned customers & churn rate (%)  
-2. **Active vs. Churned Split** (Pie / Donut)  
-3. **Monthly Churn Trend** (Line chart)  
-4. **Churn by Country** (Map or bar chart)  
-5. **Spend Distribution** (Box plot by churn status)  
-6. **Time‑to‑Churn Distribution** (Histogram of days since last purchase)  
-7. **Top Products for Retained Users** (Bar chart of top 10 SKUs)  
-8. **Purchase Heatmap** (Day of week vs. hour of day intensity)
+   - ![Total vs. churned customers & churn rate (%)](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20132000.png)  
+2. ![**Top 10 Countries by Churn Rate**](Pie / Donut)  
+3. ![**Total Number of Sales Over Time**](Line chart)  
+4. ![**Unique Customer Per Country**](Map or bar chart)  
+5. ![**Top Quantity Sold**](Box plot by churn status)  
+6. ![**Average Unit Price**](Histogram of days since last purchase)  
+7. ![**Top Products for Retained Users**](Bar chart of top 10 SKUs)  
+  
 
 ---
 
