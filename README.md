@@ -68,7 +68,7 @@ All data cleaning—filtering nulls, handling negative quantities, standardizing
 4. ![**Unique Customer Per Country**](Map or bar chart)  
 5. ![**Top Quantity Sold**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131711.png)  
 6. ![**Average Unit Price**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131745.png)  
-7. ![**Top Products for Retained Users**](Bar chart of top 10 SKUs)  
+7. ![**Top Products for Retained Users**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131835.png)  
   
 
 ---
