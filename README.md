@@ -63,7 +63,7 @@ All data cleaning—filtering nulls, handling negative quantities, standardizing
 ## 📈 Visualizations & Analysis
 1. **KPI Cards**  
    - ![Total vs. churned customers & churn rate (%)](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20132000.png)  
-2. ![**Top 10 Countries by Churn Rate**](Pie / Donut)  
+2. ![**Top 10 Countries by Churn Rate**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20132000.png)  
 3. ![**Total Number of Sales Over Time**](Line chart)  
 4. ![**Unique Customer Per Country**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131909.png)  
 5. ![**Top Quantity Sold**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131711.png)  
