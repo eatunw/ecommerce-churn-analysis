@@ -26,7 +26,8 @@ E‑commerce businesses lose revenue when customers stop purchasing (“churn”
   - Duplicate or cancelled invoices (negative `Quantity`)  
   - Inconsistent date formats  
 
-All data cleaning—filtering nulls, handling negative quantities, standardizing dates—was done via SQL scripts in the **`SQL/`** folder.
+All data cleaning—filtering nulls, handling negative quantities, standardizing dates—was done via SQL scripts in the **`SQL/`** folder. 
+And you can find the cleaned dataset in the **`xlsx/`** folder.
 
 ---
 
@@ -85,23 +86,16 @@ All data cleaning—filtering nulls, handling negative quantities, standardizing
   - I filtered out null `CustomerID` and negative quantities  
   - Deduplicates cancelled transactions  
 - **`churn_analysis.sql`**  
-  - Derives each customer’s last purchase date  
-  - Calculates `DaysSinceLast` and flags `IsChurned` (90+ days)  
-  - Aggregates churn metrics and cohorts
+  - I derived each customer’s last purchase date  
+  - I calculated `DaysSinceLast` and flags `IsChurned` (90+ days)  
+  - I got aggregates churn metrics and cohorts
 
----
-
-## 📌 Next Steps
-- Add **cohort retention curves** to track multi‑period retention  
-- Incorporate **marketing campaign** data to analyze impact on churn  
-- Experiment with **machine learning** models for churn prediction  
-- Publish an **embedded Power BI report** or migrate to Tableau Public
 
 ---
 
 ## Contact
   
-- **Contact**: [your.email@domain.com](atundeemmanuel7@gmail.com)
+- **Contact**: [EMAIL](atundeemmanuel7@gmail.com)
 
 ---
 
