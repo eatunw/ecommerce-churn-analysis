@@ -66,7 +66,7 @@ All data cleaning—filtering nulls, handling negative quantities, standardizing
 2. ![**Top 10 Countries by Churn Rate**](Pie / Donut)  
 3. ![**Total Number of Sales Over Time**](Line chart)  
 4. ![**Unique Customer Per Country**](Map or bar chart)  
-5. ![**Top Quantity Sold**](Box plot by churn status)  
+5. ![**Top Quantity Sold**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131711.png)  
 6. ![**Average Unit Price**](Histogram of days since last purchase)  
 7. ![**Top Products for Retained Users**](Bar chart of top 10 SKUs)  
   
