@@ -65,7 +65,7 @@ All data cleaning—filtering nulls, handling negative quantities, standardizing
    - ![Total vs. churned customers & churn rate (%)](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20132000.png)  
 2. ![**Top 10 Countries by Churn Rate**](Pie / Donut)  
 3. ![**Total Number of Sales Over Time**](Line chart)  
-4. ![**Unique Customer Per Country**](Map or bar chart)  
+4. ![**Unique Customer Per Country**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131909.png)  
 5. ![**Top Quantity Sold**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131711.png)  
 6. ![**Average Unit Price**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131745.png)  
 7. ![**Top Products for Retained Users**](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131835.png)  
