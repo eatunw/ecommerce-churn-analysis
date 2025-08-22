@@ -63,19 +63,19 @@ And you can find the cleaned dataset in the **`xlsx/`** folder.
 
 ## 📈 Visualizations & Analysis
 1. **KPI Cards**  
-   - ![Total vs. churned customers & churn rate (%)](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20132000.png)  
+   - ![Total vs. churned customers & churn rate (%)](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20132000.png?raw=true)  
 2. **Top 10 Countries by Churn Rate**
-   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20132000.png)  
+   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20132000.png?raw=true)  
 3. **Total Number of Sales Over Time**
-   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20132752.png)  
+   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20132752.png?raw=true)  
 4. **Unique Customer Per Country**
-   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131909.png)  
+   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131909.png?raw=true)  
 5. **Top Quantity Sold**
-   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131711.png)  
+   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131711.png?raw=true)  
 6. **Average Unit Price**
-   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131745.png)  
+   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131745.png?raw=true)  
 7. **Top Products for Retained Users**
-   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131835.png)  
+   - ![image](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/Screenshot%202025-07-20%20131835.png?raw=true)  
   
 
 ---
