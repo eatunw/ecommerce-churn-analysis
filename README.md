@@ -52,7 +52,7 @@ And you can find the cleaned dataset in the **`xlsx/`** folder.
 
 ## 🚀 Key Findings
 - **Countries with the highest churn**: Australia, France, Germany, Netherlands and Norway top the list. Their churn rates approach 
-100, meaning almost all customers in those markets bought only once during the observed period  
+100%, meaning almost all customers in those markets bought only once during the observed period  
 - **Total quantity sold by country**: As expected, the United Kingdom dominates overall volume, followed (at a much smaller scale) by Ireland, Norway, France and Germany.  
 - **Average unit price by product**: The ten products shown command the highest mean prices; they are typically large decorative items (e.g., wall clocks, cake stands) rather than low-ticket trinkets  
 - **Top-5 products by sales value**: High-velocity + mid-to-high price point gives these five items the largest revenue contributions. 
