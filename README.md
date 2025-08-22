@@ -32,19 +32,19 @@ And you can find the cleaned dataset in the **`xlsx/`** folder.
 ---
 
 ## 🛠 Tools & Technologies
-| Tool               | Purpose                                      |
-|--------------------|----------------------------------------------|
-| **SQL**            | Data cleaning, transformation, churn logic   |
-| **Power BI**       | Dashboard design, visuals, interactive filters |
-| **Git & GitHub**   | Version control and portfolio hosting        |
-| **Excel**| Quick initial exploration and sanity checks  |
+| Tool               | Purpose                                       |
+|--------------------|-----------------------------------------------|
+| **SQL**            | Data cleaning, transformation, churn logic    |
+| **Power BI**       | Dashboard design, visuals, interactive filters|
+| **Git & GitHub**   | Version control and portfolio hosting         |
+| **Excel**          | Quick initial exploration and sanity checks   |
 
 
 ---
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/e-commerce%20dashboard.png)
+![Dashboard Overview](https://github.com/eatunw/ecommerce-churn-analysis/blob/main/e-commerce%20dashboard.png?raw=true)
 
 ---
 
