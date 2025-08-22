@@ -31,13 +31,15 @@ And you can find the cleaned dataset in the **`xlsx/`** folder.
 
 ---
 
-## 🛠 Tools & Technologies
-| Tool               | Purpose                                       |
-|--------------------|-----------------------------------------------|
-| **SQL**            | Data cleaning, transformation, churn logic    |
-| **Power BI**       | Dashboard design, visuals, interactive filters|
-| **Git & GitHub**   | Version control and portfolio hosting         |
-| **Excel**          | Quick initial exploration and sanity checks   |
+## Tools & Technologies
+
+| Tool         | Purpose                                               |
+|--------------|--------------------------------------------------------|
+| SQL          | Data cleaning, transformation, churn logic             |
+| Power BI     | Dashboard creation, visuals, interactive filters       |
+| Git & GitHub | Version control and portfolio hosting                  |
+| Excel        | Quick data exploration and sanity checks               |
+
 
 
 ---
